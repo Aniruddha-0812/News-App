@@ -20,5 +20,7 @@ News App is a basic app which demonstrates android concept of Networking and fet
   * CustomTabs Intent
 
 
+### Why Recycle View and not List View
 
+![](images/rvsl.png)
 
