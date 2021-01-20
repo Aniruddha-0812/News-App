@@ -6,7 +6,7 @@ News App is a basic app which demonstrates android concept of Networking and fet
 ### Libraries Used
   * Volley - an HTTP library that makes networking for Android apps easier and faster.
   * Glide - a fast and efficient image loading library for Android focused on smooth scrolling.
-  * Facebook Shimmer
+  * Facebook Shimmer 
   
 ### Android Features Covered
   * RecycleView
